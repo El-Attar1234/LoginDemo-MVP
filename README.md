@@ -1,6 +1,6 @@
 #simple loginDemo  
 
-for valid inputs
+for valid inputs (also to make button enabled)
 
 --> email should follow the format of (#@##.##)
 
